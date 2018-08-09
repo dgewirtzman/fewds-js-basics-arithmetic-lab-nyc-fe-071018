@@ -16,4 +16,4 @@ randomNumber = Math.random() * 20;
 
 randomInteger = Math.floor(randomNumber);
 
-randomUserID = randomInteger + 
+randomUserID = randomInteger + 1000000000;
