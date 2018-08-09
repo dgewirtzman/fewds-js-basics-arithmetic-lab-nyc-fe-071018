@@ -12,4 +12,5 @@ newID = oldID + 1000000000;
 
 ageIsValid = Number.isInteger(currentAge);
 
-randomNumber = Math.
+randomNumber = Math.random() * 20;
+
